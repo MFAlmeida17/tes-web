@@ -1,0 +1,8 @@
+{
+  "name": "Commodex",
+  "description": "A professional full-stack platform for streamlined commodity trading, market analysis, and real-time inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
